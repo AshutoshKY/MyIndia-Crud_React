@@ -1,12 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <h2> YO! 🤟</h2>
-## Available Scr!
-<br>
-<br>
-
-<h2> Home Page </h2>
-[Screenshot (19)](https://user-images.githubusercontent.com/71917947/195850900-e2079f3f-fd45-4bcc-bd93-484efbac17c7.png)
+## Available Scr![Screenshot (19)](https://user-images.githubusercontent.com/71917947/195850900-e2079f3f-fd45-4bcc-bd93-484efbac17c7.png)
 ipts
 <h2> Home Page </h2>
 ![Screenshot (25)](https://user-images.githubusercontent.com/71917947/195850967-8e0bc8ae-266e-40d1-9368-1a8a128bfcc7.png)

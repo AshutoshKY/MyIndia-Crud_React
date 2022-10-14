@@ -4,6 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scr!
 
 <h2> Home Page </h2>
+![Screenshot (19)](https://user-images.githubusercontent.com/71917947/195852611-d08c48d1-ae59-492d-ae3c-a9808294cdf0.png)
 
 [Screenshot (19)](https://user-images.githubusercontent.com/71917947/195850900-e2079f3f-fd45-4bcc-bd93-484efbac17c7.png)
 

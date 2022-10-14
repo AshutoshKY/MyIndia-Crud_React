@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "//ashutoshky.github.io/MyIndia-Crud_React/static/css/main.ff7b665d.chunk.css",
+    "main.js": "//ashutoshky.github.io/MyIndia-Crud_React/static/js/main.3a62ecca.chunk.js",
+    "main.js.map": "//ashutoshky.github.io/MyIndia-Crud_React/static/js/main.3a62ecca.chunk.js.map",
+    "runtime-main.js": "//ashutoshky.github.io/MyIndia-Crud_React/static/js/runtime-main.39975228.js",
+    "runtime-main.js.map": "//ashutoshky.github.io/MyIndia-Crud_React/static/js/runtime-main.39975228.js.map",
+    "static/css/2.836a6e9d.chunk.css": "//ashutoshky.github.io/MyIndia-Crud_React/static/css/2.836a6e9d.chunk.css",
+    "static/js/2.942b19de.chunk.js": "//ashutoshky.github.io/MyIndia-Crud_React/static/js/2.942b19de.chunk.js",
+    "static/js/2.942b19de.chunk.js.map": "//ashutoshky.github.io/MyIndia-Crud_React/static/js/2.942b19de.chunk.js.map",
+    "index.html": "//ashutoshky.github.io/MyIndia-Crud_React/index.html",
+    "precache-manifest.4975300fb5759d4392200fa92f034416.js": "//ashutoshky.github.io/MyIndia-Crud_React/precache-manifest.4975300fb5759d4392200fa92f034416.js",
+    "service-worker.js": "//ashutoshky.github.io/MyIndia-Crud_React/service-worker.js",
+    "static/css/2.836a6e9d.chunk.css.map": "//ashutoshky.github.io/MyIndia-Crud_React/static/css/2.836a6e9d.chunk.css.map",
+    "static/css/main.ff7b665d.chunk.css.map": "//ashutoshky.github.io/MyIndia-Crud_React/static/css/main.ff7b665d.chunk.css.map",
+    "static/js/2.942b19de.chunk.js.LICENSE.txt": "//ashutoshky.github.io/MyIndia-Crud_React/static/js/2.942b19de.chunk.js.LICENSE.txt",
+    "static/js/main.3a62ecca.chunk.js.LICENSE.txt": "//ashutoshky.github.io/MyIndia-Crud_React/static/js/main.3a62ecca.chunk.js.LICENSE.txt",
+    "static/media/Assamjpg.jpg": "//ashutoshky.github.io/MyIndia-Crud_React/static/media/Assamjpg.1907b12c.jpg",
+    "static/media/bootstrap-icons.css": "//ashutoshky.github.io/MyIndia-Crud_React/static/media/bootstrap-icons.be6df3f0.woff",
+    "static/media/delhi.jpeg": "//ashutoshky.github.io/MyIndia-Crud_React/static/media/delhi.c6d48d55.jpeg",
+    "static/media/font-awesome.min.css": "//ashutoshky.github.io/MyIndia-Crud_React/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/jandk.jpg": "//ashutoshky.github.io/MyIndia-Crud_React/static/media/jandk.475cd438.jpg",
+    "static/media/rajasthan.jpg": "//ashutoshky.github.io/MyIndia-Crud_React/static/media/rajasthan.37b42bbc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39975228.js",
+    "static/css/2.836a6e9d.chunk.css",
+    "static/js/2.942b19de.chunk.js",
+    "static/css/main.ff7b665d.chunk.css",
+    "static/js/main.3a62ecca.chunk.js"
+  ]
+}

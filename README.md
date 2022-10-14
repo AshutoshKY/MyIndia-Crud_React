@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <h2> YO! 🤟</h2>
-## Available Scr!
+## GitHub Pages Link : https://ashutoshky.github.io/MyIndia-Crud_React/
 
 <h2> Home Page </h2>
 

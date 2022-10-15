@@ -23,34 +23,34 @@ const Contact = () => {
   return (
     <Wrapper className='section' style={{paddingTop:'6%', paddingLeft:'8%'}}>
         <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d110128.38019647067!2d76.7500464489617!3d30.3932156474972!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1665066476724!5m2!1sen!2sin"
-        width="60%" 
-        height="550" 
+        width="59%" 
+        height="650" 
         style={{border: '10px solid lightblue', borderRadius:'200px'}}
         allowFullScreen="" 
         loading="lazy" 
         referrerpolicy="no-referrer-when-downgrade" title='enq'></iframe>
 
-        <div className="container">
+        <div className="container" style={{margin:'-33% 10% 0px 18%'}}>
             <div className="contact-form" style={{ border: '5px solid lightblue', borderRadius:'20px', padding:'1%' }}>
                 <form action='#' className='contact-inputs'>
-                    <h1>CONTACT US</h1>
+                    <h1 style={{fontFamily: 'Rajdhani,sans-serif'}}>CONTACT US</h1>
                     <div className="inputBox">
-                        <h6>Enter Username</h6>
+                        <h4>Enter Username</h4>
                         <input type="text" name="username" placeholder="Enter Username" required/>
                     </div>
                     
                     <div className="inputBox">
-                        <h6>Enter Email</h6>
+                        <h4>Enter Email</h4>
                         <input type="email" name="email" placeholder="Enter Email" required/>
                     </div>
 
                     <div className="inputBox">
-                    <h6>Enter Message</h6>
+                    <h4>Enter Message</h4>
                         <textarea name='message' placeholder="Enter Message" required/>
                     </div>
                     
                     <div className="inputBox">
-                        <input className='btn btn-primary' type="submit" />
+                        <input className='btn btn-primary' type="submit" style={{fontSize:'20px'}}/>
                     </div>
                 </form>
             </div>

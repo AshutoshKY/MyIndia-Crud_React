@@ -23,7 +23,7 @@ const User = () => {
     <div class="conatiner" style={{  justifyContent:'center', paddingTop:'5%' }}>
     <div className="container py-4">
       <Link className="btn btn-primary" to="/details">
-        Back to Details
+        Back to Customer Details
       </Link>
       <br></br>
       <br></br>
@@ -31,10 +31,10 @@ const User = () => {
       <hr />
       <ul className="list-group w-50" style={{ fontFamily:'Bebas Neue,cursive', fontSize:'3vh' }}>
         <li className="list-group-item">Name: {user.name}</li>
-        <li className="list-group-item">User name: {user.username}</li>
+        <li className="list-group-item">Destination: {user.username}</li>
         <li className="list-group-item">Email: {user.email}</li>
         <li className="list-group-item">Phone: {user.phone}</li>
-        <li className="list-group-item">Website: {user.website}</li>
+        <li className="list-group-item">Stay Duration: {user.website}</li>
       </ul>
     </div>
     </div>

@@ -4,7 +4,7 @@ import "./login.css";
 const Login=()=>{
 return(
   <section class="main">
-  <div class="container box" style={{backgroundColor:'#256D85'}}>
+  <div class="container box" style={{backgroundColor:'#256D85', display:'inline-flex'}}>
     <div class="login main-container">
       <div class="login-img img-container">
         <img src="https://raw.githubusercontent.com/zinotrust/10-days-of-javascript/a7159092ec6551911839c3bc562b3a8fdd3dce3d/Animated%20Login%20Form/images/login.svg" alt="login" />

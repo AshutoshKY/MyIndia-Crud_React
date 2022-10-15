@@ -9,7 +9,7 @@ const Navbar = () => {
         <Link exact to="/">
           <img src={mw} width="60px" height="60px" style={{borderRadius:"50%",margin:"0% 5px -8px -35px"}} alt="hi" />
         </Link>
-        <h3 style={{color:"white",margin:"0px 55% 0px 5px", fontFamily:'Silkscreen,cursive'}}>My India</h3>
+        <h3 style={{color:"white",margin:"0px 55% 0px 5px", fontFamily:'Silkscreen,cursive'}}>India Tours</h3>
         <button
           className="navbar-toggler"
           type="button"
@@ -31,7 +31,7 @@ const Navbar = () => {
             </li>
             <li className="nav-item">
               <NavLink className="nav-link" exact to="/about" style={{ fontFamily:'Peralta,cursive', fontSize:'2.4vh' }} >
-                About
+                Places
               </NavLink>
             </li>
             <li className="nav-item">
@@ -40,8 +40,13 @@ const Navbar = () => {
               </NavLink>
             </li>
             <li className="nav-item">
-              <NavLink className="nav-link" exact to="/contact" style={{ fontFamily:'Quattrocento,serif', fontSize:'2.5vh' }}>
+              <NavLink className="nav-link" exact to="/contact" style={{ fontFamily:'cursive', fontSize:'2.5vh' }}>
                 Contact
+              </NavLink>
+            </li>
+            <li className="nav-item">
+              <NavLink className="nav-link" exact to="/gallery" style={{ fontFamily:'Kalam,cursive', fontSize:'2.5vh' }}>
+                Gallery
               </NavLink>
             </li>
             <li className="nav-item" id="login">

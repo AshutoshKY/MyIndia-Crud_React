@@ -15,7 +15,7 @@ const About = () => {
     <>
     <div  style={{ paddingRight:'15px' }}>
  <div class="header" style={{ paddingTop:'40px' ,alignItem:'centre', textAlign:'center', fontFamily:'Great Vibes,cursive'}}>
-    <h1 style={{fontWeight:'bolder', fontSize:'6vh'}}>Take a Look at World's Best Country</h1>
+    <h2 style={{fontWeight:'bolder', fontSize:'6vh'}}>Take a Look at the World's Best Country</h2>
   </div>
   <br></br>
   <ul>

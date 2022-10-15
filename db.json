@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Leanne Graham",
-      "username": "Bret pit",
+      "username": "Jodhpur",
       "email": "Sincere@april.biz",
       "address": {
         "street": "Kulas Light",
@@ -16,7 +16,7 @@
         }
       },
       "phone": "1-770-736-8031 x56442",
-      "website": "hildegard.org",
+      "website": "9 Days",
       "company": {
         "name": "Romaguera-Crona",
         "catchPhrase": "Multi-layered client-server neural-net",
@@ -26,7 +26,7 @@
     {
       "id": 2,
       "name": "Ervin Howell",
-      "username": "Antonette",
+      "username": "Kashmir",
       "email": "Shanna@melissa.tv",
       "address": {
         "street": "Victor Plains",
@@ -39,7 +39,7 @@
         }
       },
       "phone": "010-692-6593 x09125",
-      "website": "anastasia.net",
+      "website": "7 Days",
       "company": {
         "name": "Deckow-Crist",
         "catchPhrase": "Proactive didactic contingency",
@@ -49,7 +49,7 @@
     {
       "id": 3,
       "name": "Clementine Bauch",
-      "username": "Samantha",
+      "username": "Assam",
       "email": "Nathan@yesenia.net",
       "address": {
         "street": "Douglas Extension",
@@ -62,7 +62,7 @@
         }
       },
       "phone": "1-463-123-4447",
-      "website": "ramiro.info",
+      "website": "5 Days",
       "company": {
         "name": "Romaguera-Jacobson",
         "catchPhrase": "Face to face bifurcated interface",
@@ -71,19 +71,11 @@
     },
     {
       "name": "Ashutosh Kumar Yadav",
-      "username": "ashutoshky",
-      "email": "ashutosh0964@chitkara.edu.in",
+      "username": "Delhi",
+      "email": "sdchjkn@gkj.com",
       "phone": "98786466464",
-      "website": "asky.com",
+      "website": "10 Days",
       "id": 5
-    },
-    {
-      "name": "gfdfdhf",
-      "username": "jhfj",
-      "email": "",
-      "phone": "",
-      "website": "",
-      "id": 6
     }
   ]
 }

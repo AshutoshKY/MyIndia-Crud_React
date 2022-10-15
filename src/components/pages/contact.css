@@ -1,4 +1,4 @@
-:root {
+/* :root {
     --primary-color: #141415;
     --secondary-color: #818386;
     --bg-color: #FCFDFD;
@@ -12,7 +12,7 @@
     --bg-color: #010712;
     --button-color: #818386;
     --h1-color: #FCFDFD;
-  }
+  } */
   
   /* * {
     margin: 0;
@@ -20,7 +20,7 @@
     transition: all 0.3s ease-in-out;
   } */
   
-  .contact-container {
+  /* .contact-container {
     display: flex;
     width: 100vw;
     height: 100vh;
@@ -125,9 +125,7 @@
   button:active {
     opacity: 0.8;
   }
-  
-  /* Toggle Switch */
-  
+    
   .theme-switch-wrapper {
     display: flex;
     align-items: center;
@@ -258,4 +256,4 @@
     border-radius: 50%;
   }
   
-}
+} */

@@ -8,7 +8,7 @@ const Home = () => {
   
 <section>
   <div class="title">
-    <h3>Let's do some</h3>
+    <h3>Let's GO</h3>
     <h1>PARALLAX</h1>
   </div>
 </section>

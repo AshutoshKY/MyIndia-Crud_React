@@ -2,6 +2,8 @@ import React, { useState } from "react";
 import axios from 'axios'
 import { useHistory } from "react-router-dom";
 
+import { Link } from "react-router-dom";
+
 const AddUser = () => {
   let history = useHistory();
   const [user, setUser] = useState({
@@ -25,7 +27,7 @@ const AddUser = () => {
   return (
     <div className="container" style={{ paddingTop:'5%' }}>
       <div className="w-75 mx-auto shadow p-5">
-        <h2 className="text-center mb-4">Add A User</h2>
+        <h2 className="text-center mb-4">Book Your Destination</h2>
         <form onSubmit={e => onSubmit(e)}>
           <div className="form-group">
             <input
@@ -41,7 +43,7 @@ const AddUser = () => {
             <input
               type="text"
               className="form-control form-control-lg"
-              placeholder="Enter Your Username"
+              placeholder="Enter Your Destination"
               name="username"
               value={username}
               onChange={e => onInputChange(e)}
@@ -71,7 +73,7 @@ const AddUser = () => {
             <input
               type="text"
               className="form-control form-control-lg"
-              placeholder="Enter Your Website Name"
+              placeholder="Enter Your Stay Duration"
               name="website"
               value={website}
               onChange={e => onInputChange(e)}
@@ -80,6 +82,9 @@ const AddUser = () => {
           <button className="btn btn-primary btn-block">Add User</button>
         </form>
       </div>
+      <Link className="btn btn-primary" to="/details" style={{margin:'50px 100px 0px 430px', padding:'10px', fontSize:'20px'}}>
+        Back to Customer Details
+      </Link>
     </div>
   );
 };

@@ -13,6 +13,10 @@ Click on the Link and Click on Home on Navbar
 
 ![Screenshot (25)](https://user-images.githubusercontent.com/71917947/195850967-8e0bc8ae-266e-40d1-9368-1a8a128bfcc7.png)
 
+<h2> Image Local Storage using URL </h2>
+
+![Screenshot (27)](https://user-images.githubusercontent.com/71917947/196037754-8954a8f8-12de-40d2-a5c5-682b3890ddcb.png)
+
 <h2> View Page </h2>
 
 ![Screenshot (24)](https://user-images.githubusercontent.com/71917947/195851013-91f99e9e-c195-4708-b90b-8f8978549435.png)
